@@ -138,6 +138,6 @@ st.markdown(
     """
     1. Users renting bicycles in one day experience fluctuations where, renters will increase at 8 am then decrease until it will increase to its highest number at 5 pm. This is related to the 9-5 working hours in the United States at that time, so the use of rental bicycles will increase during the departure and return hours of the office.
 
-    2. Weather greatly influences the number of bike renters, renters tend to rent a bike when the weather is sunny, and will drop significantly when the weather is cloudy and even no renters when the weather is heavy rain and stormy. In autumn, the number of bike renters is also at its highest compared to other seasons, where the season tends to have friendly weather.
+    2. Weathers greatly influences the number of bike renters, renters tend to rent a bike when the weather is sunny, and will drop significantly when the weather is cloudy and even no renters when the weather is heavy rain and stormy. In autumn, the number of bike renters is also at its highest compared to other seasons, where the season tends to have friendly weather.
 
     """)
